@@ -10,8 +10,6 @@
 #define ll long long
 using namespace std;
 
-int ev[1001];
-
 int main(){
     int n; //Number of elements in list
     cin >> n;
